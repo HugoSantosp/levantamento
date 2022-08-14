@@ -1,5 +1,7 @@
 <p align="center"><img  src="resources/images/anchor.jpg" width="400"></p>
 
+<a>Anchor Soluções Tecnológicas</a> de Hugo Santos
+
 
 ## Sobre o Sistema 
 
