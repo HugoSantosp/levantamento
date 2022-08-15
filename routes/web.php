@@ -41,7 +41,7 @@ Route::middleware("auth")->name('panel.')->group(function (){
     Route::name('main')->group(function (){
 
         #Rota index do Dashboard
-        Route::get('/dashboard', [PanelMain::class, "index"])->name("index");
+        Route::get('/dashboard', [PanelMain::class,"index"])->name("index");
     });
 
 });
